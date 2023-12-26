@@ -1,0 +1,35 @@
+body {
+    background: url(i1.jpg);
+        background-size: cover;
+           }
+            .waled{
+                border: 1 px solid rgb(119, 54, 0);
+                 padding: 15px;
+                  color:#fff ;
+                   background: linear-gradient(#a619f8,#00f2fe);
+                    border-radius: 5px;
+                      transition: all 0.5; 
+                        appearance: sart;
+                          transition: all 1s;
+                            box-shadow:0 0 15px 5px #a619f8 ;
+                            color:black;
+                              font-size: 20px;   
+                              }
+                              .waled:hover{
+                               border: 1 px solid rgb(119, 44, 0);
+                               padding: 15px;
+                               color:#fff ;
+                              background: linear-gradient(red,blue) ;
+                             border-radius: 5px;
+                            transition: all 0.5;
+                           appearance: round;
+                          border-radius: 50%; 
+                         box-shadow: 0 0 15px  5px red;   
+                       }
+                      marquee{   
+                     text-shadow: 0px 0px 15px #ff0000 , 1px 1px 15px #000000;   
+                    width: 500px;    
+                   }
+                 .w8{
+                height: 5px;
+              }

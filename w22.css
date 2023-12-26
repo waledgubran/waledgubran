@@ -1,0 +1,10 @@
+body {
+    background: url(2i.jpg);
+    background-size: cover;
+}
+.w1{
+    color:aliceblue;
+    text-shadow: 0px 0px 10px black;  
+    background: black;
+    
+}
